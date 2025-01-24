@@ -119,10 +119,9 @@ a.nav-element:hover{
   font-size: 5em;
   display:inline-block;
   position:absolute;
-  left: 18%;
+  left: 10%;
   top: 25%;
   color:white;
-  text-align : center;
   font-family:'Times New Roman', Times, serif;
 }
 #gk{
